@@ -1,0 +1,67 @@
+.main-container{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: rgb(229, 190, 196);
+}
+
+.input-sec{
+  /* position: relative; */
+  /* align-items: center; */
+  /* justify-content: center; */
+  /* text-align: center; */
+  background-color:antiquewhite;
+}
+.input-sec p{
+  color: rgb(125, 90, 90);
+}
+.witdh-class{
+  width: 25rem;
+  height: 3rem;
+  border: 1px solid;
+
+}
+
+img{
+  width: 50rem;
+  height: auto;
+}
+
+/* .sign-google-fb{
+  width: 100%;
+  position: relative;
+}
+
+.sign-google-fb:before{
+  content: "";
+  width: 25%;
+  height: 2px;
+  display: block;
+  background-color: rgb(193, 186, 186);
+  position: absolute;
+  top: 50%;
+  left: 0;
+     
+}
+
+.sign-google-fb:after{
+  content: "";
+  width: 25%;
+  height: 2px;
+  display: block;
+  background-color: rgb(193, 186, 186);
+  position: absolute;
+  top: 50%;
+  right: 0;
+}
+ */
+
+.sign-up-btn{
+
+  background-color: #19ac11
+}
+.login-btn{
+   background-color: #1610c2
+}

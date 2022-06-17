@@ -1,0 +1,32 @@
+.main-container{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color:rgb(206, 203, 197);
+}
+
+.input-sec{
+  background-color:rgb(252, 245, 234);
+}
+.input-sec p{
+  color: rgb(125, 90, 90);
+}
+.witdh-class{
+  width: 33.5rem;
+  height: 3.5rem;
+}
+
+img{
+  width: 50rem;
+  height: auto;
+}
+
+.input-cl{
+   border: 1px solid;
+}
+
+.login-btn{
+   background-color: #3933f4
+}
